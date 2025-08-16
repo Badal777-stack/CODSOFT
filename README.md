@@ -10,7 +10,7 @@ This repository contains all the **AI tasks and projects** assigned during the i
 
 ## 📌 Internship Details
 - **Domain:** Artificial Intelligence  
-- **Organization:** [CodSoft](https://www.codsoft.in/)  
+- **Organization:** [CodSoft](https://www.codsoft.in/) 
 - **Duration:** 20 July 2025 – 20 August 2025  
 - **Batch:** B41 (July 2025)  
 
@@ -34,9 +34,9 @@ This repo will be updated with all tasks as I progress through the internship:
 ---
 
 ## 📬 Connect With Me
-[![GitHub]  (https://github.com/Badal777-stack)  
-[![LinkedIn] (https://www.linkedin.com/in/badal-nahak-5b013624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Gmail]: (badalnahak135@gamil.com)
+[GitHub](https://github.com/Badal777-stack)  
+[LinkedIn](https://www.linkedin.com/in/badal-nahak-5b013624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[Gmail](badalnahak135@gamil.com)
 ---
 
 
