@@ -19,9 +19,9 @@ This repository contains all the **AI tasks and projects** assigned during the i
 ## 📂 Repository Contents
 This repo will be updated with all tasks as I progress through the internship:  
 
-- ✅ **Task 1:** [CODSOFT/Task1]  
-- ✅ **Task 2:** [CODSOFT/Task2]  
-- ✅ **Task 4:** [CODSOFT/Task4]  
+- ✅ **Task 1:** [CODSOFT/Task1](https://github.com/Badal777-stack/CODSOFT/tree/main/CODSOFT/TASK%201)
+- ✅ **Task 2:** [CODSOFT/Task2](https://github.com/Badal777-stack/CODSOFT/tree/main/CODSOFT/TASK%202)
+- ✅ **Task 4:** [CODSOFT/Task2](https://github.com/Badal777-stack/CODSOFT/tree/main/CODSOFT/TASK%204) 
 - ... (more tasks coming soon 🚀)  
 
 ---
