@@ -66,7 +66,7 @@ Create a **recommendation system** that suggests items (movies, books, or produc
 
 📌 Notes
 All tasks were completed individually, from scratch.
-No templates or third-party code was used, image are used from unplash.com website .
+No templates or third-party code was used.
 Feedback, suggestions, and collaboration are always welcome!
 
 ✨ Stay tuned as I continue updating this repository with my learnings and projects during the internship!
